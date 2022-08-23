@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nichmomanyi
 - 👀 I’m interested in Data. I want to gain moreknowledge in using data to improve business outcomes e,g Outcomes, Customer experience, Cost and revenue.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Data science
 - 📫 How to reach me at nicholasmomanyi94@gmail.com or at +254715210571
 
 <!---
